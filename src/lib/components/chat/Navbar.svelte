@@ -79,6 +79,10 @@
 			{$showSidebar ? 'ml-1' : ''}
 			"
 				>
+					<div class="flex items-center justify-center rounded text-white h-8" style="background-color: #1d548d;">
+						ALL USAGE IS RECORDED AND REVIEWED
+					</div>
+
 					{#if showModelSelector}
 						<ModelSelector bind:selectedModels showSetDefault={!shareEnabled} />
 					{/if}

@@ -482,6 +482,10 @@
 				</div>
 			</button>
 
+			<img src="/static/customlogo.png" width="100%">
+		</div>
+
+		<div class="px-1.5 flex justify-between space-x-1 text-gray-600 dark:text-gray-400">
 			<a
 				id="sidebar-new-chat-button"
 				class="flex justify-between items-center flex-1 rounded-lg px-2 py-1 h-full text-right hover:bg-gray-100 dark:hover:bg-gray-900 transition no-drag-region"
